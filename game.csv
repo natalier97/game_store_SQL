@@ -1,0 +1,11 @@
+game_id,game_title,quantity,price,engine_id
+1,The Witcher 3: Wild Hunt,30,39.99,1
+2,Grand Theft Auto V,25,49.99,2
+3,Assassin's Creed Valhalla,20,59.99,4
+4,Cyberpunk 2077,15,54.99,3
+5,Red Dead Redemption 2,35,44.99,4
+6,FIFA 22,40,29.99,3
+7,Call of Duty: Warzone,18,39.99,1
+8,Minecraft,50,19.99,3
+9,Overwatch,22,34.99,2
+10,Final Fantasy VII Remake,28,49.99,1
